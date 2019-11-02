@@ -22,7 +22,7 @@ export default function Card ({ handleClick, id, type, flipped, height, width, s
                 height, width
             }}
             className={flipped ? 'front' : 'back'}//class name of the object is dependent of wheather the card is flipped front or back
-            src={flipped || solved ? `/img/${type}.png` : '/img/bakc.png'}
+            src={flipped || solved ? `/img/${type}.png` : '/img/back.png'}
             />
         </div>
     </div>
