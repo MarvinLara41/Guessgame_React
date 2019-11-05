@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Guessgame_React/static/css/main.9a8442bb.chunk.css",
+    "main.js": "/Guessgame_React/static/js/main.d7ea34a6.chunk.js",
+    "main.js.map": "/Guessgame_React/static/js/main.d7ea34a6.chunk.js.map",
+    "runtime-main.js": "/Guessgame_React/static/js/runtime-main.b6896914.js",
+    "runtime-main.js.map": "/Guessgame_React/static/js/runtime-main.b6896914.js.map",
+    "static/js/2.0b8134d6.chunk.js": "/Guessgame_React/static/js/2.0b8134d6.chunk.js",
+    "static/js/2.0b8134d6.chunk.js.map": "/Guessgame_React/static/js/2.0b8134d6.chunk.js.map",
+    "index.html": "/Guessgame_React/index.html",
+    "precache-manifest.ed527ad3199f7a17fcb34bd939652de4.js": "/Guessgame_React/precache-manifest.ed527ad3199f7a17fcb34bd939652de4.js",
+    "service-worker.js": "/Guessgame_React/service-worker.js",
+    "static/css/main.9a8442bb.chunk.css.map": "/Guessgame_React/static/css/main.9a8442bb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6896914.js",
+    "static/js/2.0b8134d6.chunk.js",
+    "static/css/main.9a8442bb.chunk.css",
+    "static/js/main.d7ea34a6.chunk.js"
+  ]
+}
